@@ -1,12 +1,6 @@
-# Testování
+IVS: Testování
+====================================
+Projekt do předmětu Praktické aspekty vývoje software (2. semestr FIT VUT) ve stavu, v jakém byl odevzdán k hodnocení.
 
-Projekty jsou zde v takovém stavu, ve kterém jsem je odevzdával k hodnocení.
-
-## Hodnocení
-
+### Hodnocení
 15/17
-
-### Chyby
- * -1.0 test fronty nekontroluje pořadí prvků
- * -1.0 test peek nekontroluje stav po zavolání metody
-
